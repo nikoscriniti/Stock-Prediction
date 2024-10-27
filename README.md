@@ -28,6 +28,7 @@ Stock Predictor is a web-based application built with Streamlit that allows user
 2. prophet 
 3. yfinance
 4. plotly
+- for the news feature --> get api key (from below) and put in main.py file
 
 # How to Use
 Select a stock
